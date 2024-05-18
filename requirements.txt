@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+matplotlib
+labelme
+albumentations
+uuid
+streamlit
