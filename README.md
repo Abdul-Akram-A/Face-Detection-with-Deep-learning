@@ -30,6 +30,8 @@ The model architecture is designed to process input images of size 120x120 pixel
    - The model produces two sets of predictions:
      - **Classification Output:** Probability of a face being present in the input image.
      - **Regression Output:** Bounding box coordinates of the detected face.
+### Deployment:
+Streamlit
 
 ### Conclusion:
 The Real-Time Face Detection project combines the strengths of deep learning and computer vision to create a powerful solution for accurate face detection in various environments. With the VGG16 backbone and custom output layers, the model efficiently processes images in real-time, making it suitable for applications such as video surveillance and facial recognition systems.
